@@ -23,4 +23,17 @@
    ![image](https://github.com/user-attachments/assets/39f47c42-cf53-4db4-9a98-4b5073a91955) <br>
 
 
+3. Дальше я поставил варгард <br>
+   1). Создал ключи на хосте <br>
+      ![image](https://github.com/user-attachments/assets/c3829f7a-e259-4ba7-b9b1-081877265f9b)
    
+   2). Дальше напсал конфигурационный файл <br>
+      ![image](https://github.com/user-attachments/assets/b0c47437-0dad-4b84-8be3-8387f09d7a9f)
+
+   3). Потом создал ключи для клиента и написал конфигурацию для клиента <br>
+      ![image](https://github.com/user-attachments/assets/716f4c84-6555-433c-b1e2-160a02800d84)
+      ![image](https://github.com/user-attachments/assets/509db032-065a-4072-82b4-a6a36fdd8981)
+
+4. Делаю ping до приватного сервака <br>
+      ![image](https://github.com/user-attachments/assets/c077bb60-57ac-4bdc-a8fe-b893fc875249)
+
